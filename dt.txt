@@ -1,0 +1,682 @@
+| 合う (あう) | 合う | Hợp | gặp, hợp | 友達に合う。(Gặp bạn.) |
+| 会う (あう) | 会う | Hội | gặp | 友達に会う。(Gặp bạn.) |
+| 遭う (あう) | 遭う | Tao | gặp phải | 事故に遭う。(Gặp tai nạn.) |
+| 仰ぐ (あおぐ) | 仰ぐ | Ngưỡng | ngưỡng mộ, ngước nhìn | 先生を仰ぐ。(Ngưỡng mộ thầy giáo.) |
+| 扇ぐ (あおぐ) | 扇ぐ | Thiên | quạt | 扇子で扇ぐ。(Quạt bằng quạt giấy.) |
+| 煽る (あおる) | 煽る | Triển | kích động, khiêu khích | 感情を煽る。(Kích động cảm xúc.) |
+| 上がる (あがる) | 上がる | Thượng | lên, tăng | 成績が上がる。(Điểm số tăng lên.) |
+| 上げる (あげる) | 上げる | Thượng | nâng lên | 手を上げる。(Giơ tay lên.) |
+| 開く (あく) | 開く | Khai | mở ra (tự động) | ドアが開く。(Cửa mở ra.) |
+| 空く (あく) | 空く | Không | trống rỗng | 席が空く。(Chỗ ngồi còn trống.) |
+| 明ける (あける) | 明ける | Minh | tỏa sáng, bình minh | 夜が明ける。(Trời sáng.) |
+| 開ける (あける) | 開ける | Khai | mở | 窓を開ける。(Mở cửa sổ.) |
+| 空ける (あける) | 空ける | Không | làm trống | カップを空ける。(Làm trống ly.) |
+| 飽きる (あきる) | 飽きる | Bão | chán | 同じ食事に飽きる。(Chán cùng một món ăn.) |
+| 諦める (あきらめる) | 諦める | Đế | từ bỏ, bỏ cuộc | 夢を諦める。(Từ bỏ ước mơ.) |
+| 憧れる (あこがれる) | 憧れる | Đồng | mơ ước, khao khát | 自由に憧れる。(Khao khát tự do.) |
+| 浅める (あさめる) | 浅める | Thiển | làm nông | 理解を浅める。(Làm hiểu biết trở nên nông cạn.) |
+| 遊ぶ (あそぶ) | 遊ぶ | Dịu | chơi đùa | 公園で遊ぶ。(Chơi ở công viên.) |
+| 与える (あたえる) | 与える | Dữ | cho, tặng | 賞を与える。(Trao giải thưởng.) |
+| 温まる (あたたまる) | 温まる | Ôn | ấm lên | 手が温まる。(Tay ấm lên.) |
+| 温める (あたためる) | 温める | Ôn | làm ấm | 食べ物を温める。(Làm ấm đồ ăn.) |
+| 当たる (あたる) | 当たる | Đương | trúng, đụng | 宝くじが当たる。(Trúng xổ số.) |
+| 当てる (あてる) | 当てる | Đương | đoán, đánh trúng | 的を当てる。(Bắn trúng mục tiêu.) |
+| 扱う (あつかう) | 扱う | Quát | đối xử, xử lý | データを扱う。(Xử lý dữ liệu.) |
+| 集まる (あつまる) | 集まる | Tập | tụ tập, tập trung | 人々が集まる。(Mọi người tập trung.) |
+| 集める (あつめる) | 集める | Tập | thu thập, tập hợp | 切手を集める。(Sưu tập tem.) |
+| 預かる (あずかる) | 預かる | Dự | giữ hộ | 子供を預かる。(Trông nom trẻ con.) |
+| 預ける (あずける) | 預ける | Dự | gửi, ký gửi | 荷物を預ける。(Gửi hành lý.) |
+| 浴びる (あびる) | 浴びる | Dục | tắm, dầm mình | 日光を浴びる。(Tắm nắng.) |
+| 溢れる (あふれる) | 溢れる | Dật | tràn | 水が溢れる。(Nước tràn.) |
+| 改める (あらためる) | 改める | Cải | sửa đổi | 態度を改める。(Sửa đổi thái độ.) |
+| 洗う (あらう) | 洗う | Tẩy | rửa, giặt | 顔を洗う。(Rửa mặt.) |
+| 荒らす (あらす) | 荒らす | Hoang | phá hoại, làm hỏng | 庭を荒らす。(Phá hoại khu vườn.) |
+| 焦がす (あぶらす) | 焦がす | Tiêu | cháy khét | 肉を焦がす。(Làm thịt cháy khét.) |
+| 甘える (あまえる) | 甘える | Cam | làm nũng | 子供が母親に甘える。(Đứa trẻ làm nũng mẹ.) |
+| 余る (あまる) | 余る | Dư | còn lại, thừa | 時間が余る。(Thời gian còn thừa.) |
+| 編む (あむ) | 編む | Biên | đan | セーターを編む。(Đan áo len.) |
+| 危ぶむ (あやぶむ) | 危ぶむ | Nguy | lo sợ | 成功を危ぶむ。(Lo sợ không thành công.) |
+| 謝る (あやまる) | 謝る | Tạ | xin lỗi | 過ちを謝る。(Xin lỗi về lỗi lầm.) |
+| 争う (あらそう) | 争う | Tranh | tranh đấu, tranh giành | 優勝を争う。(Tranh giành chức vô địch.) |
+| 表す (あらわす) | 表す | Biểu | thể hiện, biểu đạt | 感情を表す。(Thể hiện cảm xúc.) |
+| 著す (あらわす) | 著す | Trước | viết, sáng tác | 本を著す。(Viết sách.) |
+| 現れる (あらわれる) | 現れる | Hiện | xuất hiện | 虹が現れる。(Cầu vồng xuất hiện.) |
+| 荒む (あらむ) | 荒む | Hoang | trở nên hoang tàn | 心が荒む。(Tâm hồn trở nên hoang vu.) |
+| 荒れる (あれる) | 荒れる | Hoang | trở nên thô ráp, bão tố | 海が荒れる。(Biển động.) |
+| 歩く (あるく) | 歩く | Bộ | đi bộ | 公園を歩く。(Đi bộ trong công viên.) |
+| 合わせる (あわせる) | 合わせる | Hợp | kết hợp, chỉnh | 時計を合わせる。(Chỉnh đồng hồ.) |
+| 慌てる (あわてる) | 慌てる | Hoảng | hoảng hốt, vội vàng | 時間がなくて慌てる。(Hoảng hốt vì không còn thời gian.) |
+| 案じる (あんじる) | 案じる | Án | lo lắng | 子供の将来を案じる。(Lo lắng cho tương lai của con cái.) |
+| 言う (いう) | 言う | Ngôn | nói | 真実を言う。(Nói sự thật.) |
+| 活かす (いかす) | 活かす | Hoạt | phát huy, tận dụng | 経験を活かす。(Phát huy kinh nghiệm.) |
+| 怒る (いかる) | 怒る | Nộ | tức giận | 不正に怒る。(Tức giận với sự bất công.) |
+| 生きる (いきる) | 生きる | Sinh | sống | 精一杯生きる。(Sống hết mình.) |
+| 行く (いく) | 行く | Hành | đi | 学校へ行く。(Đi đến trường.) |
+| 弄る (いじる) | 弄る | Lộng | nghịch, mân mê | 髪を弄る。(Mân mê tóc.) |
+| 急ぐ (いそぐ) | 急ぐ | Cấp | vội vàng | 学校に急ぐ。(Vội đến trường.) |
+| 痛む (いたむ) | 痛む | Thống | đau | 頭が痛む。(Đau đầu.) |
+| 傷む (いたむ) | 傷む | Thương | bị thương, hư hỏng | 食べ物が傷む。(Thức ăn bị hỏng.) |
+| 痛める (いためる) | 痛める | Thống | làm đau, bị thương | 足首を痛める。(Làm đau mắt cá chân.) |
+| 至る (いたる) | 至る | Chí | đến | 頂点に至る。(Đạt đến đỉnh cao.) |
+| 抱く (いだく) | 抱く | Bão | ôm, ấp ủ | 希望を抱く。(Ấp ủ hy vọng.) |
+| 威張る (いばる) | 威張る | Uy trương | kiêu ngạo | 部下に威張る。(Kiêu ngạo với cấp dưới.) |
+| 嫌がる (いやがる) | 嫌がる | Hiềm | ghét, không thích | 勉強を嫌がる。(Ghét học.) |
+| 祝う (いわう) | 祝う | Chúc | chúc mừng | 誕生日を祝う。(Chúc mừng sinh nhật.) |
+| 入る (いる) | 入る | Nhập | vào | 部屋に入る。(Vào phòng.) |
+| 居る (いる) | 居る | Cư | ở, sống | 家に居る。(Ở nhà.) |
+| 要る (いる) | 要る | Yếu | cần thiết | お金が要る。(Cần tiền.) |
+| 射る (いる) | 射る | Xạ | bắn | 矢を射る。(Bắn mũi tên.) |
+| 煎る (いる) | 煎る | Tiễn | rang | コーヒーを煎る。(Rang cà phê.) |
+| 入れる (いれる) | 入れる | Nhập | đặt vào | 砂糖を入れる。(Cho đường vào.) |
+| 祈る (いのる) | 祈る | Kỳ | cầu nguyện | 平和を祈る。(Cầu nguyện cho hòa bình.) |
+| 飢える (うえる) | 飢える | Cơ | đói | 何日も飢える。(Đói nhiều ngày.) |
+| 植える (うえる) | 植える | Thực | trồng | 木を植える。(Trồng cây.) |
+| 浮く (うく) | 浮く | Phù | nổi | 水に浮く。(Nổi trên nước.) |
+| 浮かぶ (うかぶ) | 浮かぶ | Phù | trôi nổi, hiện ra | アイデアが浮かぶ。(Ý tưởng hiện ra.) |
+| 浮かべる (うかべる) | 浮かべる | Phù | làm nổi | 船を浮かべる。(Làm cho thuyền nổi.) |
+| 受かる (うかる) | 受かる | Thụ | thi đỗ | 試験に受かる。(Thi đỗ kỳ thi.) |
+| 受ける (うける) | 受ける | Thụ | nhận | 賞を受ける。(Nhận giải thưởng.) |
+| 承る (うけたまわる) | 承る | Thừa | nhận lãnh (kính ngữ) | 注文を承る。(Nhận lãnh đơn đặt hàng.) |
+| 動く (うごく) | 動く | Động | di chuyển | 機械が動く。(Máy móc di chuyển.) |
+| 動かす (うごかす) | 動かす | Động | làm di chuyển | 車を動かす。(Làm cho xe di chuyển.) |
+| 失う (うしなう) | 失う | Thất | mất | 信頼を失う。(Mất lòng tin.) |
+| 薄める (うすめる) | 薄める | Bạc | pha loãng | 酒を薄める。(Pha loãng rượu.) |
+| 歌う (うたう) | 歌う | Ca | hát | 歌を歌う。(Hát một bài hát.) |
+| 疑う (うたがう) | 疑う | Nghi | nghi ngờ | 彼を疑う。(Nghi ngờ anh ấy.) |
+| 打つ (うつ) | 打つ | Đả | đánh | ボールを打つ。(Đánh bóng.) |
+| 討つ (うつ) | 討つ | Thảo | chinh phạt | 敵を討つ。(Chinh phạt kẻ địch.) |
+| 撃つ (うつ) | 撃つ | Kích | bắn (súng) | 銃を撃つ。(Bắn súng.) |
+| 映す (うつす) | 映す | Ánh | chiếu, phản chiếu | 鏡に姿を映す。(Soi mình trong gương.) |
+| 写す (うつす) | 写す | Tả | sao chép | ノートを写す。(Sao chép vở.) |
+| 移す (うつす) | 移す | Di | di chuyển | 場所を移す。(Di chuyển địa điểm.) |
+| 映る (うつる) | 映る | Ánh | được chiếu, phản chiếu | 月が水面に映る。(Trăng phản chiếu trên mặt nước.) |
+| 写る (うつる) | 写る | Tả | được chụp | 写真に写る。(Được chụp ảnh.) |
+| 移る (うつる) | 移る | Di | di chuyển, lây | 新しい家に移る。(Chuyển đến nhà mới.) / 風邪が移る。(Bệnh cảm bị lây.) |
+| 頷く (うなずく) | 頷く | Hạm | gật đầu | 話を聞いて頷く。(Nghe chuyện rồi gật đầu.) |
+| 唸る (うなる) | 唸る | Niệm | rên rỉ, gầm gừ | 犬が唸る。(Con chó gầm gừ.) |
+| 奪う (うばう) | 奪う | Đoạt | cướp, giành | ボールを奪う。(Giành bóng.) |
+| 生まれる (うまれる) | 生まれる | Sinh | được sinh ra | 赤ちゃんが生まれる。(Em bé được sinh ra.) |
+| 埋まる (うまる) | 埋まる | Mai | bị chôn | 穴が埋まる。(Lỗ bị lấp.) |
+| 産む (うむ) | 産む | Sản | sinh ra | 子供を産む。(Sinh con.) |
+| 生む (うむ) | 生む | Sinh | sinh ra, tạo ra | 利益を生む。(Tạo ra lợi nhuận.) |
+| 埋める (うめる) | 埋める | Mai | chôn, lấp | 穴を埋める。(Lấp lỗ.) |
+| 敬う (うやまう) | 敬う | Kính | kính trọng | 年長者を敬う。(Kính trọng người lớn tuổi.) |
+| 占う (うらなう) | 占う | Chiêm | đoán, bói | 運勢を占う。(Đoán vận may.) |
+| 恨む (うらむ) | 恨む | Hận | hận, căm ghét | 彼を恨む。(Căm ghét anh ta.) |
+| 羨む (うらやむ) | 羨む | Tiện | ghen tị | 他人の成功を羨む。(Ghen tị với thành công của người khác.) |
+| 売る (うる) | 売る | Mại | bán | 車を売る。(Bán xe.) |
+| 得る (うる) | 得る | Đắc | có được, đạt được | 知識を得る。(Có được kiến thức.) |
+| 憂う (うれう) | 憂う | Ưu | lo lắng, buồn rầu | 将来を憂う。(Lo lắng về tương lai.) |
+| 売れる (うれる) | 売れる | Mại | bán chạy | 新商品が売れる。(Sản phẩm mới bán chạy.) |
+| 追う (おう) | 追う | Truy | đuổi theo | 犯人を追う。(Đuổi theo tội phạm.) |
+| 負う (おう) | 負う | Phụ | gánh vác | 責任を負う。(Gánh vác trách nhiệm.) |
+| 終える (おえる) | 終える | Chung | kết thúc | 仕事を終える。(Kết thúc công việc.) |
+| 多い (おおい) | 多い | Đa | nhiều (tính từ) | 人が多い。(Nhiều người.) |
+| 覆う (おおう) | 覆う | Phúc | che, phủ | 雪が地面を覆う。(Tuyết phủ kín mặt đất.) |
+| 起きる (おきる) | 起きる | Khởi | thức dậy, xảy ra | 朝早く起きる。(Thức dậy sớm.) |
+| 置く (おく) | 置く | Trí | đặt, để | 本を机に置く。(Đặt sách lên bàn.) |
+| 送る (おくる) | 送る | Tống | gửi | 手紙を送る。(Gửi thư.) |
+| 贈る (おくる) | 贈る | Tặng | tặng | 花を贈る。(Tặng hoa.) |
+| 遅れる (おくれる) | 遅れる | Trì | trễ | 電車が遅れる。(Tàu bị trễ.) |
+| 怒る (おこる) | 怒る | Nộ | tức giận | 結果に怒る。(Tức giận về kết quả.) |
+| 起こる (おこる) | 起こる | Khởi | xảy ra | 事故が起こる。(Tai nạn xảy ra.) |
+| 起こす (おこす) | 起こす | Khởi | gây ra | 運動を起こす。(Gây ra một phong trào.) |
+| 行う (おこなう) | 行う | Hành | tổ chức, tiến hành | 会議を行う。(Tổ chức cuộc họp.) |
+| 治まる (おさまる) | 治まる | Trị | ổn định | 病気が治まる。(Bệnh ổn định.) |
+| 治める (おさめる) | 治める | Trị | cai trị, ổn định | 国を治める。(Cai trị đất nước.) |
+| 収める (おさめる) | 収める | Thu | thu vào, cất | 荷物を収める。(Thu xếp hành lý.) |
+| 修める (おさめる) | 修める | Tu | tu luyện | 学問を修める。(Tu luyện học vấn.) |
+| 納める (おさめる) | 納める | Nạp | nộp | 税金を納める。(Nộp thuế.) |
+| 教わる (おそわる) | 教わる | Giáo | được dạy | 先生に教わる。(Được thầy giáo dạy.) |
+| 恐れる (おそれる) | 恐れる | Khủng | sợ | 失敗を恐れる。(Sợ thất bại.) |
+| 落ちる (おちる) | 落ちる | Lạc | rơi | 葉が落ちる。(Lá rơi.) |
+| 落とす (おとす) | 落とす | Lạc | làm rơi | ペンを落とす。(Làm rơi bút.) |
+| 訪れる (おとずれる) | 訪れる | Phỏng | thăm | 友人を訪れる。(Thăm bạn.) |
+| 衰える (おとろえる) | 衰える | Suy | suy yếu | 体力が衰える。(Thể lực suy yếu.) |
+| 踊る (おどる) | 踊る | Dũng | nhảy múa | ステージで踊る。(Nhảy múa trên sân khấu.) |
+| 脅す (おどす) | 脅す | Hiếp | đe dọa | 相手を脅す。(Đe dọa đối phương.) |
+| 驚かす (おどろかす) | 驚かす | Kinh | làm ngạc nhiên | 人を驚かす。(Làm người khác ngạc nhiên.) |
+| 驚く (おどろく) | 驚く | Kinh | ngạc nhiên | ニュースに驚く。(Ngạc nhiên trước tin tức.) |
+| 覚える (おぼえる) | 覚える | Giác | nhớ, học | 単語を覚える。(Học từ vựng.) |
+| 溺れる (おぼれる) | 溺れる | Nịch | chết đuối | 海で溺れる。(Chết đuối ở biển.) |
+| 思う (おもう) | 思う | Tư | nghĩ | 幸せだと思う。(Nghĩ rằng hạnh phúc.) |
+| 泳ぐ (およぐ) | 泳ぐ | Vịnh | bơi lội | 川で泳ぐ。(Bơi ở sông.) |
+| 及ぶ (およぶ) | 及ぶ | Cập | lan tới, đạt đến | 被害が全国に及ぶ。(Thiệt hại lan tới khắp nước.) |
+| 折る (おる) | 折る | Chiết | bẻ gãy | 枝を折る。(Bẻ gãy cành cây.) |
+| 織る (おる) | 織る | Chức | dệt | 布を織る。(Dệt vải.) |
+| 下りる (おりる) | 下りる | Hạ | xuống | バスを下りる。(Xuống xe buýt.) |
+| 降りる (おりる) | 降りる | Giáng | xuống (trời mưa) | 雨が降りる。(Mưa rơi.) |
+| 下ろす (おろす) | 下ろす | Hạ | hạ xuống | 荷物を下ろす。(Hạ hành lý xuống.) |
+| 終わる (おわる) | 終わる | Chung | kết thúc | 授業が終わる。(Tiết học kết thúc.) |
+| 買う (かう) | 買う | Mãi | mua | 本を買う。(Mua sách.) |
+| 飼う (かう) | 飼う | Tự | nuôi (thú cưng) | 犬を飼う。(Nuôi chó.) |
+| 返す (かえす) | 返す | Phản | trả lại | 本を返す。(Trả sách.) |
+| 帰る (かえる) | 帰る | Quy | trở về | 家に帰る。(Trở về nhà.) |
+| 代える (かえる) | 代える | Đại | thay thế | 新しいものに代える。(Thay bằng cái mới.) |
+| 替える (かえる) | 替える | Thế | đổi | 電池を替える。(Đổi pin.) |
+| 変える (かえる) | 変える | Biến | thay đổi | 計画を変える。(Thay đổi kế hoạch.) |
+| 換える (かえる) | 換える | Hoán | đổi | お金を換える。(Đổi tiền.) |
+| 抱える (かかえる) | 抱える | Bão | ôm, vác, mang (vấn đề) | 問題を抱える。(Mang vấn đề.) |
+| 掛かる (かかる) | 掛かる | Quải | tốn (thời gian, tiền), bị khóa | 時間が掛かる。(Tốn thời gian.) / 鍵が掛かる。(Cửa bị khóa.) |
+| 架かる (かかる) | 架かる | Giá | được bắc qua | 橋が架かる。(Cầu được bắc qua.) |
+| 罹る (かかる) | 罹る | Li | mắc (bệnh) | 病気に罹る。(Mắc bệnh.) |
+| 書く (かく) | 書く | Thư | viết | 手紙を書く。(Viết thư.) |
+| 描く (かく) | 描く | Miêu | vẽ | 絵を描く。(Vẽ tranh.) |
+| 掻く (かく) | 掻く | Tao | gãi, cào | 頭を掻く。(Gãi đầu.) |
+| 欠く (かく) | 欠く | Khiếm | thiếu | 常識を欠く。(Thiếu kiến thức thông thường.) |
+| 嗅ぐ (かぐ) | 嗅ぐ | Khứu | ngửi | 花の香りを嗅ぐ。(Ngửi hương hoa.) |
+| 隠す (かくす) | 隠す | Ẩn | che giấu | 秘密を隠す。(Che giấu bí mật.) |
+| 隠れる (かくれる) | 隠れる | Ẩn | trốn | カーテンの後ろに隠れる。(Trốn sau rèm cửa.) |
+| 掛ける (かける) | 掛ける | Quải | treo, gọi (điện thoại), nhân | 壁に絵を掛ける。(Treo tranh lên tường.) / 電話を掛ける。(Gọi điện thoại.) / ３に２を掛ける。(Nhân 2 với 3.) |
+| 駆ける (かける) | 駆ける | Khu | chạy nhanh | 野原を駆ける。(Chạy nhanh trên đồng.) |
+| 賭ける (かける) | 賭ける | Đổ | cá cược | 金を賭ける。(Cá cược tiền.) |
+| 囲む (かこむ) | 囲む | Vi | bao quanh | 家を塀で囲む。(Bao quanh nhà bằng tường.) |
+| 重なる (かさなる) | 重なる | Trọng | chồng chất, trùng lặp | 予定が重なる。(Lịch trình bị trùng.) |
+| 重ねる (かさねる) | 重ねる | Trọng | chồng lên, lặp lại | 本を重ねる。(Chồng sách lên.) / 練習を重ねる。(Luyện tập nhiều lần.) |
+| 貸す (かす) | 貸す | Thải | cho vay, cho mượn | お金を貸す。(Cho vay tiền.) |
+| 稼ぐ (かせぐ) | 稼ぐ | Giá | kiếm tiền | 生活費を稼ぐ。(Kiếm tiền sinh hoạt.) |
+| 数える (かぞえる) | 数える | Số | đếm | 星を数える。(Đếm sao.) |
+| 傾く (かたむく) | 傾く | Khuynh | nghiêng | 塔が傾く。(Tháp bị nghiêng.) |
+| 傾ける (かたむける) | 傾ける | Khuynh | làm nghiêng | 首を傾ける。(Nghiêng đầu.) |
+| 語る (かたる) | 語る | Ngữ | kể chuyện | 昔話を語る。(Kể chuyện ngày xưa.) |
+| 勝つ (かつ) | 勝つ | Thắng | thắng | 試合に勝つ。(Thắng trận đấu.) |
+| 悲しむ (かなしむ) | 悲しむ | Bi | buồn | 別れを悲しむ。(Buồn vì chia ly.) |
+| 叶う (かなう) | 叶う | Hiệp | thành hiện thực (ước mơ) | 願いが叶う。(Ước mơ thành hiện thực.) |
+| 適う (かなう) | 適う | Thích | phù hợp | 条件に適う。(Phù hợp với điều kiện.) |
+| 被る (かぶる) | 被る | Bị | đội (mũ), chịu (trách nhiệm) | 帽子を被る。(Đội mũ.) / 責任を被る。(Chịu trách nhiệm.) |
+| 構う (かまう) | 構う | Cấu | bận tâm, chăm sóc | 子供に構う。(Bận tâm tới con.) |
+| 噛む (かむ) | 噛む | Hàm | cắn, nhai | パンを噛む。(Nhai bánh mì.) |
+| 通う (かよう) | 通う | Thông | đi lại (thường xuyên) | 学校に通う。(Đi học.) |
+| 揶揄う (からかう) | 揶揄う | Gia du | trêu chọc | 友達を揶揄う。(Trêu chọc bạn bè.) |
+| 刈る (かる) | 刈る | Ngải | cắt, gặt | 稲を刈る。(Gặt lúa.) / 芝生を刈る。(Cắt cỏ.) |
+| 枯れる (かれる) | 枯れる | Khô | héo, khô cạn | 花が枯れる。(Hoa héo.) / 井戸が枯れる。(Giếng cạn nước.) |
+| 可愛がる (かわいがる) | 可愛がる | Khả ái | yêu thương, cưng chiều | 猫を可愛がる。(Cưng chiều mèo.) |
+| 乾く (かわく) | 乾く | Can | khô | 服が乾く。(Quần áo khô.) |
+| 渇く (かわく) | 渇く | Khát | khát | 喉が渇く。(Khát nước.) |
+| 交わす (かわす) | 交わす | Giao | trao đổi | 意見を交わす。(Trao đổi ý kiến.) |
+| 代わる (かわる) | 代わる | Đại | thay thế | 父に代わって挨拶する。(Thay mặt bố chào hỏi.) |
+| 変わる (かわる) | 変わる | Biến | thay đổi | 信号が変わる。(Đèn tín hiệu thay đổi.) |
+| 換わる (かわる) | 換わる | Hoán | được đổi | 円がドルに換わる。(Yên được đổi sang đô la.) |
+| 感じる (かんじる) | 感じる | Cảm | cảm thấy | 寒さを感じる。(Cảm thấy lạnh.) |
+| 聞こえる (きこえる) | 聞こえる | Văn | nghe thấy | 音が聞こえる。(Nghe thấy tiếng động.) |
+| 効く (きく) | 効く | Hiệu | có hiệu quả | 薬が効く。(Thuốc có hiệu quả.) |
+| 聞く (きく) | 聞く | Văn | nghe, hỏi | 音楽を聞く。(Nghe nhạc.) |
+| 利く (きく) | 利く | Lợi | có tác dụng, nhạy | 目が利く。(Có cặp mắt tinh.) / ブレーキが利く。(Phanh ăn.) |
+| 刻む (きざむ) | 刻む | Khắc | thái, khắc | 野菜を刻む。(Thái rau.) / 文字を刻む。(Khắc chữ.) |
+| 気付く (きづく) | 気付く | Khí | nhận ra | 間違いに気付く。(Nhận ra lỗi.) |
+| 傷付く (きずつく) | 傷付く | Thương | bị tổn thương | 心が傷付く。(Tâm hồn bị tổn thương.) |
+| 傷付ける (きずつける) | 傷付ける | Thương | làm tổn thương | 人の心を傷付ける。(Làm tổn thương trái tim người khác.) |
+| 決まる (きまる) | 決まる | Quyết | được quyết định | 方針が決まる。(Phương châm được quyết định.) |
+| 決める (きめる) | 決める | Quyết | quyết định | 日程を決める。(Quyết định lịch trình.) |
+| 嫌う (きらう) | 嫌う | Hiềm | ghét | 暴力を嫌う。(Ghét bạo lực.) |
+| 切る (きる) | 切る | Thiết | cắt | 紙を切る。(Cắt giấy.) |
+| 着る (きる) | 着る | Trước | mặc | 服を着る。(Mặc quần áo.) |
+| 消える (きえる) | 消える | Tiêu | tắt, biến mất | 火が消える。(Lửa tắt.) |
+| 食う (くう) | 食う | Thực | ăn (thô tục) | 飯を食う。(Ăn cơm.) |
+| 区切る (くぎる) | 区切る | Khu | phân chia, ngắt quãng | 文章を区切る。(Ngắt câu trong đoạn văn.) |
+| 潜る (くぐる) | 潜る | Tiềm | lặn, đi qua dưới | 水中を潜る。(Lặn dưới nước.) / 門を潜る。(Đi qua cổng.) |
+| 崩す (くずす) | 崩す | Băng | phá hủy, làm rối loạn | 城を崩す。(Phá thành.) / 体調を崩す。(Sức khỏe suy sụp.) |
+| 崩れる (くずれる) | 崩れる | Băng | sụp đổ | 建物が崩れる。(Tòa nhà sụp đổ.) |
+| 腐る (くさる) | 腐る | Hủ | thối rữa | 肉が腐る。(Thịt thối.) |
+| 下さる (くださる) | 下さる | Hạ | cho, tặng (kính ngữ) | 先生が本を下さる。(Thầy giáo cho tôi sách.) |
+| 砕く (くだく) | 砕く | Toái | nghiền nát | 石を砕く。(Nghiền nát đá.) |
+| 砕ける (くだける) | 砕ける | Toái | vỡ vụn | ガラスが砕ける。(Kính vỡ vụn.) |
+| くたびれる | くたびれる | (không có Kanji) | mệt mỏi, kiệt sức | 仕事でくたびれる。(Mệt mỏi vì công việc.) |
+| 下る (くだる) | 下る | Hạ | đi xuống, được ban hành | 坂を下る。(Đi xuống dốc.) / 命令が下る。(Mệnh lệnh được ban hành.) |
+| 口ずさむ (くちずさむ) | 口ずさむ | Khẩu | hát thầm, ngâm nga | 歌を口ずさむ。(Ngâm nga một bài hát.) |
+| 覆す (くつがえす) | 覆す | Phúc | lật ngược, bác bỏ | 定説を覆す。(Lật ngược định説.) |
+| 覆る (くつがえる) | 覆る | Phúc | bị lật ngược | 計画が覆る。(Kế hoạch bị đảo lộn.) |
+| くっ付く (くっつく) | くっ付く | Phó | dính chặt, bám theo | シールが壁にくっ付く。(Nhãn dán dính chặt vào tường.) |
+| くっ付ける (くっつける) | くっ付ける | Phó | làm dính chặt | 二つの板をくっ付ける。(Làm dính chặt hai tấm ván.) |
+| 配る (くばる) | 配る | Phối | phân phát | 新聞を配る。(Phân phát báo.) |
+| 組む (くむ) | 組む | Tổ | kết hợp, lắp ráp | チームを組む。(Lập đội.) / 足を組む。(Vắt chân.) |
+| 汲む (くむ) | 汲む | Cấp | múc | 水を汲む。(Múc nước.) |
+| 悔やむ (くやむ) | 悔やむ | Hối | hối hận | 過去を悔やむ。(Hối hận về quá khứ.) |
+| 暮らす (くらす) | 暮らす | Mộ | sinh sống | 東京で暮らす。(Sinh sống ở Tokyo.) |
+| 比べる (くらべる) | 比べる | Tỉ | so sánh | 二つを比べる。(So sánh hai cái.) |
+| 狂う (くるう) | 狂う | Cuồng | điên cuồng, trục trặc | 時計が狂う。(Đồng hồ chạy sai.) / 気が狂う。(Phát điên.) |
+| 包む (くるむ) | 包む | Bao | gói, bọc | プレゼントを包む。(Gói quà.) |
+| 苦しむ (くるしむ) | 苦しむ | Khổ | đau khổ, khổ sở | 病気で苦しむ。(Khổ sở vì bệnh tật.) |
+| 苦しめる (くるしめる) | 苦しめる | Khổ | làm cho đau khổ | 人を苦しめる。(Làm người khác đau khổ.) |
+| 来る (くる) | 来る | Lai | đến | 友達が来る。(Bạn đến.) |
+| 暮れる (くれる) | 暮れる | Mộ | lặn (mặt trời), hết (ngày, năm) | 日が暮れる。(Mặt trời lặn.) / 年が暮れる。(Hết năm.) |
+| 加える (くわえる) | 加える | Gia | thêm vào | 説明を加える。(Thêm lời giải thích.) |
+| 咥える (くわえる) | 咥える | Điếu | ngậm | 指を咥える。(Ngậm ngón tay.) |
+| 加わる (くわわる) | 加わる | Gia | tham gia, gia tăng | チームに加わる。(Tham gia vào đội.) / 力が加わる。(Lực tác động tăng lên.) |
+| 計る (はかる) | 計る | Kế | đo, cân | 時間を計る。(Đo thời gian.) |
+| 諮る (はかる) | 諮る | Ti | hỏi ý, tham khảo | 会議に諮る。(Hỏi ý kiến hội nghị.) |
+| 図る (はかる) | 図る | Đồ | lập kế hoạch, tiến hành | 問題の解決を図る。(Tiến hành giải quyết vấn đề.) |
+| 謀る (はかる) | 謀る | Mưu | âm mưu, mưu đồ | 暗殺を謀る。(Âm mưu ám sát.) |
+| 弾く (はじく) | 弾く | Đàn | búng, gạt ra, không thấm (nước) | コインを弾く。(Búng đồng xu.) / 水を弾く。(Không thấm nước.) |
+| 恥じる (はじる) | 恥じる | Sỉ | xấu hổ | 過ちを恥じる。(Xấu hổ về lỗi lầm.) |
+| 外す (はずす) | 外す | Ngoại | tháo ra, bỏ ra, trượt | ボタンを外す。(Tháo cúc áo.) |
+| 外れる (はずれる) | 外れる | Ngoại | tuột ra, trượt, không trúng | 予想が外れる。(Dự đoán trật.) |
+| 話す (はなす) | 話す | Thoại | nói chuyện | 友達と話す。(Nói chuyện với bạn.) |
+| 放す (はなす) | 放す | Phóng | thả, buông | 鳥を放す。(Thả chim.) |
+| 離す (はなす) | 離す | Ly | tách ra, rời xa | 手を離す。(Buông tay.) |
+| 離れる (はなれる) | 離れる | Ly | rời xa, chia cách | 故郷を離れる。(Rời xa quê hương.) |
+| 跳ねる (はねる) | 跳ねる | Khiêu | nhảy, bắn (bùn) | ボールが跳ねる。(Bóng nảy lên.) |
+| 撥ねる (はねる) | 撥ねる | Bát | gạt bỏ, đâm (xe) | 車に撥ねられる。(Bị xe đâm.) |
+| 填める (はめる) | 填める | Điền | lắp vào, đeo (nhẫn) | 指輪を填める。(Đeo nhẫn.) |
+| 嵌る (はまる) | 嵌る | Khảm | bị kẹt, nghiện | 罠に嵌る。(Mắc bẫy.) |
+| 生やす (はやす) | 生やす | Sinh | nuôi, trồng (râu, tóc) | 髭を生やす。(Nuôi râu.) |
+| 流行る (はやる) | 流行る | Lưu hành | thịnh hành, phổ biến | 新しい歌が流行る。(Bài hát mới thịnh hành.) |
+| 張る (はる) | 張る | Trương | căng ra, dán | テントを張る。(Dựng lều.) |
+| 貼る (はる) | 貼る | Thiếp | dán | 切手を貼る。(Dán tem.) |
+| 腫れる (はれる) | 腫れる | Thũng | sưng lên | 足が腫れる。(Chân bị sưng.) |
+| 晴れる (はれる) | 晴れる | Tình | nắng, quang đãng | 空が晴れる。(Trời quang đãng.) |
+| 引く (ひく) | 引く | Dẫn | kéo, trừ, tra (từ điển) | ドアを引く。(Kéo cửa.) |
+| 弾く (ひく) | 弾く | Đàn | chơi (nhạc cụ dây) | ピアノを弾く。(Chơi piano.) |
+| 轢く (ひく) | 轢く | Lịch | cán qua (xe) | 猫が車に轢かれた。(Mèo bị xe cán.) |
+| 退く (ひく) | 退く | Thoái | rút lui, lui về | 一歩退く。(Lùi một bước.) |
+| 浸す (ひたす) | 浸す | Tẩm | nhúng, ngâm | 水に足を浸す。(Nhúng chân vào nước.) |
+| 干る (ひる) | 干る | Can | cạn, khô (nước) | 池が干る。(Ao cạn nước.) |
+| 秘める (ひめる) | 秘める | Bí | giấu kín, giữ bí mật | 思いを秘める。(Giấu kín tâm tư.) |
+| 開く (ひらく) | 開く | Khai | mở (sách, sự kiện) | 本を開く。(Mở sách.) |
+| 拾う (ひろう) | 拾う | Thập | nhặt, lượm | ゴミを拾う。(Nhặt rác.) |
+| 広がる (ひろがる) | 広がる | Quảng | lan rộng, mở rộng (tự động) | 噂が広がる。(Tin đồn lan rộng.) |
+| 広げる (ひろげる) | 広げる | Quảng | mở rộng, trải ra | 地図を広げる。(Trải bản đồ ra.) |
+| 広まる (ひろまる) | 広まる | Quảng | được lan truyền rộng rãi | その習慣が広まる。(Tập quán đó được lan truyền rộng rãi.) |
+| 広める (ひろめる) | 広める | Quảng | làm cho lan rộng, phổ biến | 知識を広める。(Phổ biến kiến thức.) |
+| 増える (ふえる) | 増える | Tăng | tăng lên (tự động) | 人口が増える。(Dân số tăng lên.) |
+| 増やす (ふやす) | 増やす | Tăng | làm tăng lên | 貯金を増やす。(Làm tăng tiền tiết kiệm.) |
+| 殖える (ふえる) | 殖える | Thực | sinh sôi, nhân lên (tài sản, đtvt) | 財産が殖える。(Tài sản tăng lên.) |
+| 殖やす (ふやす) | 殖やす | Thực | làm sinh sôi, nhân lên | 家畜を殖やす。(Nhân giống gia súc.) |
+| 更ける (ふける) | 更ける | Canh | về khuya | 夜が更ける。(Đêm về khuya.) |
+| 老ける (ふける) | 老ける | Lão | già đi | 急に老ける。(Đột nhiên già đi.) |
+| 耽る (ふける) | 耽る | Đam | đắm chìm, mải mê | 読書に耽る。(Mải mê đọc sách.) |
+| 噴く (ふく) | 噴く | Phún | phun ra | 火山が噴く。(Núi lửa phun trào.) |
+| 吹く (ふく) | 吹く | Xuy | thổi (gió) | 風が吹く。(Gió thổi.) |
+| 拭く (ふく) | 拭く | Thức | lau, chùi | 汗を拭く。(Lau mồ hôi.) |
+| 含む (ふくむ) | 含む | Hàm | bao gồm, chứa đựng | 税金を含む。(Bao gồm thuế.) |
+| 含める (ふくめる) | 含める | Hàm | bao gồm (chủ động) | 送料を含めて千円です。(Bao gồm cả phí gửi là 1000 yên.) |
+| 膨らむ (ふくらむ) | 膨らむ | Bành | phồng lên, căng ra | 風船が膨らむ。(Bóng bay phồng lên.) |
+| 膨らます (ふくらます) | 膨らます | Bành | làm phồng lên | 頬を膨らます。(Phồng má.) |
+| 塞ぐ (ふさぐ) | 塞ぐ | Tắc | bịt lại, chặn lại | 耳を塞ぐ。(Bịt tai lại.) |
+| 塞がる (ふさがる) | 塞がる | Tắc | bị bịt kín, bị chiếm | 穴が塞がる。(Lỗ bị bịt kín.) |
+| 踏む (ふむ) | 踏む | Đạp | dẫm, đạp | ブレーキを踏む。(Đạp phanh.) |
+| 振る (ふる) | 振る | Chấn | vẫy, lắc, rắc | 手を振る。(Vẫy tay.) |
+| 震える (ふるえる) | 震える | Chấn | run rẩy | 寒さで震える。(Run vì lạnh.) |
+| 触れる (ふれる) | 触れる | Xúc | chạm, tiếp xúc, đề cập | 手で触れる。(Chạm bằng tay.) / 問題に触れる。(Đề cập đến vấn đề.) |
+| 経る (へる) | 経る | Kinh | trải qua, thông qua | 数年を経る。(Trải qua vài năm.) |
+| 減る (へる) | 減る | Giảm | giảm xuống (tự động) | 体重が減る。(Cân nặng giảm xuống.) |
+| 減らす (へらす) | 減らす | Giảm | làm giảm xuống | 費用を減らす。(Làm giảm chi phí.) |
+| 凹む (へこむ) | 凹む | Ao | lõm xuống, chán nản | ボールが凹む。(Bóng bị lõm.) |
+| 隔たる (へだたる) | 隔たる | Cách | cách biệt, xa cách | 二つの町は川で隔たっている。(Hai thị trấn cách nhau một con sông.) |
+| 隔てる (へだてる) | 隔てる | Cách | ngăn cách, chia cách | カーテンで部屋を隔てる。(Ngăn cách phòng bằng rèm cửa.) |
+| 放る (ほうる) | 放る | Phóng | ném, bỏ mặc | ボールを放る。(Ném bóng.) |
+| 褒める (ほめる) | 褒める | Bao | khen ngợi | 子供を褒める。(Khen ngợi con cái.) |
+| 惚れる (ほれる) | 惚れる | Hốt | phải lòng, yêu | あの人に惚れた。(Phải lòng người đó.) |
+| 彫る (ほる) | 彫る | Điêu | khắc, chạm | 木に像を彫る。(Khắc tượng trên gỗ.) |
+| 掘る (ほる) | 掘る | Quật | đào, bới | 穴を掘る。(Đào hố.) |
+| 干す (ほす) | 干す | Can | phơi, làm khô | 洗濯物を干す。(Phơi quần áo.) |
+| 欲しがる (ほしがる) | 欲しがる | Dục | muốn, ao ước (ngôi thứ 3) | 子供がおもちゃを欲しがる。(Đứa trẻ muốn đồ chơi.) |
+| 解く (ほどく) | 解く | Giải | cởi, tháo | 紐を解く。(Cởi dây.) |
+| 解ける (ほどける) | 解ける | Giải | được cởi ra, tuột ra | 靴紐が解ける。(Dây giày bị tuột.) |
+| 施す (ほどこす) | 施す | Thi | thực hiện, ban cho | 治療を施す。(Tiến hành trị liệu.) |
+| 滅びる (ほろびる) | 滅びる | Diệt | bị diệt vong | 古代文明が滅びる。(Nền văn minh cổ đại bị diệt vong.) |
+| 滅ぼす (ほろぼす) | 滅ぼす | Diệt | tiêu diệt | 敵を滅ぼす。(Tiêu diệt kẻ thù.) |
+| 巻く (まく) | 巻く | Quyển | cuộn, quấn, rắc (hạt) | 包帯を巻く。(Quấn băng.) |
+| 撒く (まく) | 撒く | Tát | rải, gieo | 水を撒く。(Tưới nước.) |
+| 蒔く (まく) | 蒔く | Thì | gieo hạt | 畑に種を蒔く。(Gieo hạt trên ruộng.) |
+| 負ける (まける) | 負ける | Phụ | thua, giảm giá | 試合に負ける。(Thua trận đấu.) |
+| 任せる (まかせる) | 任せる | Nhiệm | giao phó | 仕事を任せる。(Giao phó công việc.) |
+| 曲がる (まがる) | 曲がる | Khúc | rẽ, cong (tự động) | 角を曲がる。(Rẽ ở góc đường.) |
+| 曲げる (まげる) | 曲げる | Khúc | bẻ cong, uốn cong | 針金を曲げる。(Uốn cong dây kim loại.) |
+| 混じる (まじる) | 混じる | Hỗn | lẫn vào, trộn lẫn (tự động) | 白い絵の具に赤が混じる。(Màu đỏ lẫn vào màu vẽ trắng.) |
+| 交じる (まじる) | 交じる | Giao | giao nhau, lẫn vào | 男女が交じって座る。(Nam nữ ngồi xen lẫn.) |
+| 混ざる (まざる) | 混ざる | Hỗn | được trộn lẫn (tự động) | 色々な物が混ざっている。(Nhiều thứ được trộn lẫn với nhau.) |
+| 交ざる (まざる) | 交ざる | Giao | được giao nhau, được trộn lẫn | 学生と社会人が交ざって話す。(Học sinh và người đi làm nói chuyện lẫn nhau.) |
+| 混ぜる (まぜる) | 混ぜる | Hỗn | trộn lẫn | 材料を混ぜる。(Trộn nguyên liệu.) |
+| 交ぜる (まぜる) | 交ぜる | Giao | trộn lẫn, giao nhau | カードを交ぜる。(Trộn bài.) |
+| 増す (ます) | 増す | Tăng | tăng lên, hơn | 人気増す。(Sự yêu thích tăng lên.) |
+| 跨る (またがる) | 跨る | Khóa | cưỡi, bắc qua | 馬に跨る。(Cưỡi ngựa.) |
+| 待つ (まつ) | 待つ | Đãi | đợi, chờ | 友達を待つ。(Đợi bạn.) |
+| 祭る (まつる) | 祭る | Tế | thờ cúng, tổ chức lễ hội | 神を祭る。(Thờ cúng thần linh.) |
+| 纏う (まとう) | 纏う | Triền | mặc, khoác, bao phủ | ドレスを纏う。(Mặc váy dạ hội.) |
+| 学ぶ (まなぶ) | 学ぶ | Học | học hỏi | 歴史を学ぶ。(Học lịch sử.) |
+| 真似る (まねる) | 真似る | Chân tự | bắt chước | 鳥の鳴き声を真似る。(Bắt chước tiếng chim hót.) |
+| 守る (まもる) | 守る | Thủ | bảo vệ, tuân theo | 約束を守る。(Giữ lời hứa.) |
+| 迷う (まよう) | 迷う | Mê | lạc đường, phân vân | 道に迷う。(Lạc đường.) |
+| 回る (まわる) | 回る | Hồi | xoay quanh, đi vòng quanh | 地球が回る。(Trái đất quay.) |
+| 回す (まわす) | 回す | Hồi | xoay, vặn, chuyển | ハンドルを回す。(Xoay vô lăng.) |
+| 見える (みえる) | 見える | Kiến | có thể nhìn thấy | 山が見える。(Có thể nhìn thấy núi.) |
+| 磨く (みがく) | 磨く | Ma | đánh bóng, chải | 靴を磨く。(Đánh giày.) / 歯を磨く。(Đánh răng.) |
+| 満ちる (みちる) | 満ちる | Mãn | đầy, tràn đầy | 月が満ちる。(Trăng tròn.) |
+| 導く (みちびく) | 導く | Đạo | dẫn dắt, hướng dẫn | 生徒を導く。(Dẫn dắt học sinh.) |
+| 満たす (みたす) | 満たす | Mãn | làm đầy, đáp ứng | コップに水を満たす。(Làm đầy nước vào cốc.) |
+| 乱す (みだす) | 乱す | Loạn | làm rối loạn | 風紀を乱す。(Làm xáo trộn kỷ cương.) |
+| 乱れる (みだれる) | 乱れる | Loạn | bị rối loạn (tự động) | 髪が乱れる。(Tóc bị rối.) |
+| 認める (みとめる) | 認める | Nhận | thừa nhận, công nhận | 事実を認める。(Thừa nhận sự thật.) |
+| 見る (みる) | 見る | Kiến | nhìn, xem | テレビを見る。(Xem TV.) |
+| 診る (みる) | 診る | Chẩn | khám bệnh | 患者を診る。(Khám bệnh cho bệnh nhân.) |
+| 観る (みる) | 観る | Quan | xem (phim, kịch) | 映画を観る。(Xem phim.) |
+| 視る (みる) | 視る | Thị | nhìn, quan sát (chuyên môn) | 状況を視る。(Quan sát tình hình.) |
+| 剥く (むく) | 剥く | Bác | bóc, gọt | りんごを剥く。(Gọt táo.) |
+| 向く (むく) | 向く | Hướng | đối mặt, hướng về | 東を向く。(Hướng về phía Đông.) |
+| 剥ける (むける) | 剥ける | Bác | bị bong ra | 皮が剥ける。(Da bị bong.) |
+| 向ける (むける) | 向ける | Hướng | hướng về phía, dành cho | 顔を窓に向ける。(Hướng mặt về phía cửa sổ.) / 子供向けの番組。(Chương trình dành cho trẻ em.) |
+| 結ぶ (むすぶ) | 結ぶ | Kết | buộc, kết nối | 紐を結ぶ。(Buộc dây.) / 契約を結ぶ。(Ký hợp đồng.) |
+| 蒸す (むす) | 蒸す | Chưng | hấp | 野菜を蒸す。(Hấp rau.) |
+| 召す (めす) | 召す | Triệu | ăn, uống, mặc (kính ngữ) | どうぞお召し上がりください。(Xin mời dùng bữa.) |
+| 目指す (めざす) | 目指す | Mục | nhắm đến, hướng tới | 頂上を目指す。(Nhắm đến đỉnh núi.) |
+| 目立つ (めだつ) | 目立つ | Mục | nổi bật | 赤い服は目立つ。(Quần áo màu đỏ rất nổi bật.) |
+| 巡る (めぐる) | 巡る | Tuần | đi quanh, xoay quanh | 地球は太陽の周りを巡る。(Trái đất quay quanh mặt trời.) |
+| 儲かる (もうかる) | 儲かる | Trữ | có lãi | 商売が儲かる。(Buôn bán có lãi.) |
+| 儲ける (もうける) | 儲ける | Trữ | kiếm lời | 大金を儲ける。(Kiếm được nhiều tiền.) |
+| 燃える (もえる) | 燃える | Nhiên | cháy | 紙が燃える。(Giấy cháy.) |
+| 燃やす (もやす) | 燃やす | Nhiên | đốt | ゴミを燃やす。(Đốt rác.) |
+| 貰う (もらう) | 貰う | Thế | nhận | プレゼントを貰う。(Nhận quà.) |
+| 漏る (もる) | 漏る | Lậu | rò rỉ | 水が漏る。(Nước rò rỉ.) |
+| 漏れる (もれる) | 漏れる | Lậu | bị rò rỉ | 情報が漏れる。(Thông tin bị rò rỉ.) |
+| 揉む (もむ) | 揉む | Nhu | xoa bóp | 肩を揉む。(Xoa bóp vai.) |
+| 戻る (もどる) | 戻る | Lệ | quay lại | 家に戻る。(Quay lại nhà.) |
+| 戻す (もどす) | 戻す | Lệ | trả lại, hoàn lại | 本を棚に戻す。(Trả sách lại kệ.) |
+| 持つ (もつ) | 持つ | Trì | cầm, mang, sở hữu | 鞄を持つ。(Cầm cặp.) / 車を持つ。(Sở hữu xe hơi.) |
+| 凭れる (もたれる) | 凭れる | Bằng | dựa vào, tựa vào | 壁に凭れる。(Dựa vào tường.) |
+| 焼く (やく) | 焼く | Thiêu | nướng, đốt | 肉を焼く。(Nướng thịt.) |
+| 焼ける (やける) | 焼ける | Thiêu | được nướng, bị cháy | パンが焼ける。(Bánh mì được nướng.) / 日に焼ける。(Bị cháy nắng.) |
+| 訳す (やくす) | 訳す | Dịch | dịch | 英語を日本語に訳す。(Dịch tiếng Anh sang tiếng Nhật.) |
+| 宿る (やどる) | 宿る | Túc | ở trọ, mang (trong mình) | ホテルに宿る。(Ở trọ khách sạn.) / 命が宿る。(Mang trong mình sinh mệnh.) |
+| 雇う (やとう) | 雇う | Cố | thuê, tuyển dụng | 人を雇う。(Thuê người.) |
+| 破る (やぶる) | 破る | Phá | làm rách, phá vỡ | 紙を破る。(Làm rách giấy.) / 約束を破る。(Phá vỡ lời hứa.) |
+| 破れる (やぶれる) | 破れる | Phá | bị rách | 服が破れる。(Quần áo bị rách.) |
+| 病む (やむ) | 病む | Bệnh | bị bệnh | 心を病む。(Tâm bệnh.) |
+| 止む (やむ) | 止む | Chỉ | dừng, tạnh | 雨が止む。(Mưa tạnh.) |
+| 辞める (やめる) | 辞める | Từ | nghỉ, bỏ | 仕事を辞める。(Nghỉ việc.) |
+| 止める (やめる) | 止める | Chỉ | dừng, bỏ | タバコを止める。(Bỏ thuốc lá.) |
+| 茹でる (ゆでる) | 茹でる |茹 | luộc | 卵を茹でる。(Luộc trứng.) |
+| 許す (ゆるす) | 許す | Hứa | tha thứ, cho phép | 過ちを許す。(Tha thứ lỗi lầm.) / 外出を許す。(Cho phép ra ngoài.) |
+| 揺れる (ゆれる) | 揺れる | Dao | rung, lắc | 地震で家が揺れる。(Nhà rung do động đất.) |
+| 喜ぶ (よろこぶ) | 喜ぶ | Hỉ | vui mừng | 合格して喜ぶ。(Vui mừng vì thi đỗ.) |
+| 寄る (よる) | 寄る | Kí | ghé qua, dựa vào | 店に寄る。(Ghé qua cửa hàng.) / 右に寄る。(Né sang phải.) |
+| 因る (よる) | 因る | Nhân | do, bởi | 不注意に因る事故。(Tai nạn do bất cẩn.) |
+| 汚す (よごす) | 汚す | Ô | làm bẩn | 服を汚す。(Làm bẩn quần áo.) |
+| 汚れる (よごれる) | 汚れる | Ô | bị bẩn | 手が汚れる。(Tay bị bẩn.) |
+| 読む (よむ) | 読む | Độc | đọc | 本を読む。(Đọc sách.) |
+| 酔う (よう) | 酔う | Túy | say | 酒に酔う。(Say rượu.) |
+| 分かる (わかる) | 分かる | Phân | hiểu | 意味が分かる。(Hiểu ý nghĩa.) |
+| 別れる (わかれる) | 別れる | Biệt | chia tay | 友達と別れる。(Chia tay bạn bè.) |
+| 分かれる (わかれる) | 分かれる | Phân | được chia ra | 道が二つに分かれる。(Con đường chia làm hai.) |
+| 沸く (わく) | 沸く | Phí | sôi | お湯が沸く。(Nước sôi.) |
+| 湧く (わく) | 湧く | Dũng | trào ra, nảy sinh | 泉が湧く。(Suối trào ra.) / アイデアが湧く。(Ý tưởng nảy sinh.) |
+| 沸かす (わかす) | 沸かす | Phí | đun sôi | お湯を沸かす。(Đun nước sôi.) |
+| 分ける (わける) | 分ける | Phân | chia | ケーキを分ける。(Chia bánh.) |
+| 忘れる (わすれる) | 忘れる | Vong | quên | 約束を忘れる。(Quên lời hứa.) |
+| 渡る (わたる) | 渡る | Độ | băng qua | 橋を渡る。(Băng qua cầu.) |
+| 渡す (わたす) | 渡す | Độ | trao cho | 手紙を渡す。(Trao thư.) |
+| 笑う (わらう) | 笑う | Tiếu | cười | 大声で笑う。(Cười to.) |
+| 割る (わる) | 割る | Cát | làm vỡ, chia | 皿を割る。(Làm vỡ đĩa.) / １０を２で割る。(Chia 10 cho 2.) |
+| 割れる (われる) | 割れる | Cát | bị vỡ | コップが割れる。(Cốc bị vỡ.) |
+| 淡く (あわく) | 淡く | Đạm | nhạt, mờ nhạt | 記憶が淡く。(Ký ức mờ nhạt.) |
+| 憐れむ (あわれむ) | 憐れむ | Lân | thương xót | 弱者を憐れむ。(Thương xót người yếu.) |
+| 慌る (あわてる) | 慌る | Hoảng | hoảng hốt | 突然の事態に慌る。(Hoảng hốt vì tình huống đột ngột.) |
+| 異なる (ことなる) | 異なる | Dị | khác | 意見が異なる。(Ý kiến khác nhau.) |
+| 戒める (いましめる) | 戒める | Giới | răn dạy, cảnh báo | 子供を戒める。(Răn dạy con cái.) |
+| 凍える (こごえる) | 凍える | Đống | lạnh cóng | 手が凍える。(Tay lạnh cóng.) |
+| 凍る (こおる) | 凍る | Đống | đóng băng | 池が凍る。(Hồ đóng băng.) |
+| 凝る (こる) | 凝る | Ngưng | cứng, đông | 肩が凝る。(Vai bị cứng.) |
+| 懲りる (こりる) | 懲りる | Trừng | bị bài học | 失敗に懲りる。(Rút kinh nghiệm từ thất bại.) |
+| 殺す (ころす) | 殺す | Sát | giết | 時間を殺す。(Giết thời gian.) |
+| 転ぶ (ころぶ) | 転ぶ | Chuyển | ngã | 雪で転ぶ。(Ngã trên tuyết.) |
+| 試みる (こころみる) | 試みる | Thí | thử, nỗ lực | 新しい方法を試みる。(Thử phương pháp mới.) |
+| 困る (こまる) | 困る | Khốn | gặp khó khăn | 問題で困る。(Gặp khó khăn với vấn đề.) |
+| 壊す (こわす) | 壊す | Hoại | phá hủy | おもちゃを壊す。(Làm hỏng đồ chơi.) |
+| 壊れる (こわれる) | 壊れる | Hoại | bị hỏng | 時計が壊れる。(Đồng hồ bị hỏng.) |
+| 探す (さがす) | 探す | Tham | tìm kiếm | 鍵を探す。(Tìm chìa khóa.) |
+| 下がる (さがる) | 下がる | Hạ | hạ xuống | 価格が下がる。(Giá cả giảm.) |
+| 下げる (さげる) | 下げる | Hạ | hạ xuống | 旗を下げる。(Hạ cờ xuống.) |
+| 叫ぶ (さけぶ) | 叫ぶ | Khiếu | hét | 大声で叫ぶ。(Hét to.) |
+| 裂く (さく) | 裂く | Liệt | xé, chẻ | 布を裂く。(Xé vải.) |
+| 咲く (さく) | 咲く | Tiếu | nở (hoa) | 桜が咲く。(Hoa anh đào nở.) |
+| 裂ける (さける) | 裂ける | Liệt | rách, nứt | 氷が裂ける。(Băng nứt.) |
+| 避ける (さける) | 避ける | Tị | tránh | 危険を避ける。(Tránh nguy hiểm.) |
+| 探る (さぐる) | 探る | Tham | dò, thăm dò | 海底を探る。(Thăm dò đáy biển.) |
+| 誘う (さそう) | 誘う | Dụ | mời, rủ | 友達を誘う。(Rủ bạn.) |
+| 指す (さす) | 指す | Chỉ | chỉ | 方向を指す。(Chỉ hướng.) |
+| 差す (さす) | 差す | Sai | đâm, xuyên, che (ô) | 傘を差す。(Che ô.) |
+| 刺す (さす) | 刺す | Thích | đâm, chọc | 虫を刺す。(Côn trùng chích.) |
+| 挿す (さす) | 挿す | Sáp | cắm vào | 花を瓶に挿す。(Cắm hoa vào bình.) |
+| 注す (さす) | 注す | Chú | rót, đổ | 水を注す。(Rót nước.) |
+| 鎖す (さす) | 鎖す | Tỏa | khóa | 門を鎖す。(Khóa cổng.) |
+| 授ける (さずける) | 授ける | Thụ | ban cho | 知識を授ける。(Ban cho kiến thức.) |
+| 錆びる (さびる) | 錆びる | Tỉ | rỉ sét | 鉄が錆びる。(Sắt bị rỉ.) |
+| 覚ます (さます) | 覚ます | Giác | đánh thức | 子供を覚ます。(Đánh thức trẻ.) |
+| 冷ます (さます) | 冷ます | Lãnh | làm nguội | スープを冷ます。(Làm nguội súp.) |
+| 覚める (さめる) | 覚める | Giác | tỉnh dậy | 夢から覚める。(Tỉnh giấc mơ.) |
+| 冷める (さめる) | 冷める | Lãnh | nguội đi | 料理が冷める。(Món ăn nguội đi.) |
+| 鮮やか (あざやか) | 鮮やか | Tiên | tươi, sắc nét | 鮮やかな色。(Màu sắc tươi sáng.) |
+| 嘲る (あざける) | 嘲る | Trào | chế giễu | 人を嘲る。(Chế giễu người khác.) |
+| 下がる (さがる) | 下がる | Hạ | hạ xuống | 値段が下がる。(Giá cả giảm.) |
+| 下げる (さげる) | 下げる | Hạ | hạ xuống | 旗を下げる。(Hạ cờ.) |
+| 錆びつく (さびつく) | 錆びつく | Tỉ | bị rỉ sét | 機械が錆びつく。(Máy bị rỉ.) |
+| 作る (つくる) | 作る | Tác | làm | 料理を作る。(Nấu ăn.) |
+| 触る (さわる) | 触る | Xúc | chạm | ボタンに触る。(Chạm vào nút.) |
+| 触れる (ふれる) | 触れる | Xúc | chạm, đề cập | 問題に触れる。(Đề cập đến vấn đề.) |
+| 冴える (さえる) | 冴える | Sái | sáng rõ | 頭が冴える。(Đầu óc sáng suốt.) |
+| 囀る (さえずる) | 囀る | Chuyển | hót | 鳥が囀る。(Chim hót.) |
+| 強いる (しいる) | 強いる | Cường | ép buộc | 決断を強いる。(Ép buộc quyết định.) |
+| 沈む (しずむ) | 沈む | Trầm | chìm | 船が沈む。(Tàu chìm.) |
+| 沈める (しずめる) | 沈める | Trầm | nhấn chìm | 船を沈める。(Nhấn chìm tàu.) |
+| 凌ぐ (しのぐ) | 凌ぐ | Lăng | vượt qua | 困難を凌ぐ。(Vượt qua khó khăn.) |
+| 偲ぶ (しのぶ) | 偲ぶ | Tư | tưởng nhớ | 故人を偲ぶ。(Tưởng nhớ người đã khuất.) |
+| 忍ぶ (しのぶ) | 忍ぶ | Nhẫn | chịu đựng | 痛みを忍ぶ。(Chịu đựng đau đớn.) |
+| 縛る (しばる) | 縛る | Phược | trói | 犯人を縛る。(Trói tội phạm.) |
+| 痺れる (しびれる) | 痺れる | Tê | tê liệt | 足が痺れる。(Chân bị tê.) |
+| 搾る (しぼる) | 搾る | Trá | vắt | 雑巾を搾る。(Vắt khăn lau.) |
+| 絞る (しぼる) | 絞る | Giảo | thắt | 首を絞る。(Thắt cổ.) |
+| 萎びる (しなびる) | 萎びる | Ủy | héo | 花が萎びる。(Hoa héo.) |
+| 仕舞う (しまう) | 仕舞う | Sĩ | cất | 道具を仕舞う。(Cất dụng cụ.) |
+| 閉まる (しまる) | 閉まる | Bế | đóng lại | ドアが閉まる。(Cửa đóng lại.) |
+| 染みる (しみる) | 染みる | Nhiễm | thấm | 水が染みる。(Nước thấm vào.) |
+| 閉める (しめる) | 閉める | Bế | đóng | 窓を閉める。(Đóng cửa sổ.) |
+| 締める (しめる) | 締める | Đế | thắt chặt | ベルトを締める。(Thắt chặt dây lưng.) |
+| 湿る (しめる) | 湿る | Thấp | ẩm ướt | 地面が湿る。(Mặt đất ẩm ướt.) |
+| 湿らす (しめらす) | 湿らす | Thấp | làm ẩm | 布を湿らす。(Làm ẩm vải.) |
+| 絞る (しぼる) | 絞る | Giảo | thắt, vắt kiệt | 首を絞る。(Thắt cổ.) / 知恵を絞る。(Vắt óc suy nghĩ.) |
+| 忍ぶ (しのぶ) | 忍ぶ | Nhẫn | chịu đựng, lén lút | 痛みを忍ぶ。(Chịu đựng đau đớn.) / 人目を忍ぶ。(Lén lút tránh người khác.) |
+| 滑る (すべる) | 滑る | Hoạt | trượt | 氷の上を滑る。(Trượt trên băng.) |
+| 澄ます (すます) | 澄ます | Trừng | làm trong, lắng nghe | 空気を澄ます。(Làm không khí trong lành.) / 耳を澄ます。(Lắng tai nghe.) |
+| 済ます (すます) | 済ます | Tế | kết thúc, hoàn thành | 食事を済ます。(Ăn xong.) |
+| 澄む (すむ) | 澄む | Trừng | trở nên trong | 水が澄む。(Nước trở nên trong.) |
+| 住む (すむ) | 住む | Trú | sống, ở | 東京に住む。(Sống ở Tokyo.) |
+| 済む (すむ) | 済む | Tế | kết thúc, hoàn tất | 仕事が済む。(Công việc hoàn tất.) |
+| する | する | (không có Kanji) | làm | 勉強をする。(Học bài.) |
+| 座る (すわる) | 座る | Tọa | ngồi | 椅子に座る。(Ngồi ghế.) |
+| 剃る (そる) | 剃る | Thế | cạo | ひげを剃る。(Cạo râu.) |
+| 注ぐ (そそぐ) | 注ぐ | Chú | rót, đổ | 水を注ぐ。(Rót nước.) |
+| 育つ (そだつ) | 育つ | Dục | lớn lên, trưởng thành | 子供が育つ。(Trẻ con lớn lên.) |
+| 育てる (そだてる) | 育てる | Dục | nuôi nấng, trồng | 子供を育てる。(Nuôi dạy con cái.) / 野菜を育てる。(Trồng rau.) |
+| 備える (そなえる) | 備える | Bị | chuẩn bị, trang bị | 地震に備える。(Chuẩn bị cho động đất.) |
+| 染める (そめる) | 染める | Nhiễm | nhuộm | 髪を染める。(Nhuộm tóc.) |
+| 絶える (たえる) | 絶える | Tuyệt | dứt, tuyệt chủng | 音が絶える。(Âm thanh dứt.) / 種が絶える。(Giống loài tuyệt chủng.) |
+| 耐える (たえる) | 耐える | Nại | chịu đựng | 痛みに耐える。(Chịu đựng đau đớn.) |
+| 堪える (こらえる) | 堪える | Kham | chịu đựng, kìm nén | 怒りを堪える。(Kìm nén cơn giận.) |
+| 倒す (たおす) | 倒す | Đảo | làm đổ, đánh bại | 敵を倒す。(Đánh bại kẻ địch.) |
+| 倒れる (たおれる) | 倒れる | Đảo | đổ, ngã | 木が倒れる。(Cây đổ.) |
+| 焚く (たく) | 焚く | Phần | đốt | 薪を焚く。(Đốt củi.) |
+| 炊く (たく) | 炊く | Xuy | nấu (cơm) | ご飯を炊く。(Nấu cơm.) |
+| 叩く (たたく) | 叩く | Khấu | gõ, đập | ドアを叩く。(Gõ cửa.) |
+| 戦う (たたかう) | 戦う | Chiến | chiến đấu | 敵と戦う。(Chiến đấu với kẻ thù.) |
+| 闘う (たたかう) | 闘う | Đấu | đấu tranh | 病気と闘う。(Đấu tranh với bệnh tật.) |
+| 称える (たたえる) | 称える | Xưng | khen ngợi, ca tụng | 功績を称える。(Khen ngợi công lao.) |
+| 畳む (たたむ) | 畳む | Điệp | gấp | 服を畳む。(Gấp quần áo.) |
+| 立つ (たつ) | 立つ | Lập | đứng | 椅子に立つ。(Đứng trên ghế.) |
+| 建つ (たつ) | 建つ | Kiến | được xây | 家が建つ。(Nhà được xây.) |
+| 経つ (たつ) | 経つ | Kinh | trôi qua (thời gian) | 時間が経つ。(Thời gian trôi qua.) |
+| 断つ (たつ) | 断つ | Đoạn | cắt đứt | 関係を断つ。(Cắt đứt quan hệ.) |
+| 立てる (たてる) | 立てる | Lập | dựng lên | 旗を立てる。(Dựng cờ.) |
+| 建てる (たてる) | 建てる | Kiến | xây | 家を建てる。(Xây nhà.) |
+| 点てる (たてる) | 点てる | Điểm | pha (trà) | お茶を点てる。(Pha trà.) |
+| 楽しむ (たのしむ) | 楽しむ | Lạc | thưởng thức, vui vẻ | 音楽を楽しむ。(Thưởng thức âm nhạc.) |
+| 頼む (たのむ) | 頼む | Lại | nhờ | 友達に頼む。(Nhờ bạn.) |
+| 携える (たずさえる) | 携える | Huề | mang theo | 書類を携える。(Mang theo tài liệu.) |
+| 尋ねる (たずねる) | 尋ねる | Tầm | hỏi | 道を尋ねる。(Hỏi đường.) |
+| 辿る (たどる) | 辿る | Đệ | theo | 足跡を辿る。(Theo dấu chân.) |
+| 辿り着く (たどりつく) | 辿り着く | Đệ | đến được | ゴールに辿り着く。(Đến được đích.) |
+| 称える (たたえる) | 称える | Xưng | khen ngợi | 功績を称える。(Khen ngợi công lao.) |
+| 絶える (たえる) | 絶える | Tuyệt | dứt | 音が絶える。(Âm thanh dứt.) |
+| 束ねる (たばねる) | 束ねる | Thúc | buộc lại | 髪を束ねる。(Buộc tóc lại.) |
+| 例える (たとえる) | 例える | Lệ | so sánh | 人生を旅に例える。(So sánh cuộc đời với chuyến đi.) |
+| 助かる (たすかる) | 助かる | Trợ | được cứu | 命が助かる。(Mạng sống được cứu.) |
+| 助ける (たすける) | 助ける | Trợ | giúp đỡ | 友達を助ける。(Giúp đỡ bạn.) |
+| 溜める (ためる) | 溜める | Lưu | tích trữ | お金を溜める。(Tích trữ tiền.) |
+| 試す (ためす) | 試す | Thí | thử | 新しい方法を試す。(Thử phương pháp mới.) |
+| 保つ (たもつ) | 保つ | Bảo | giữ | 健康を保つ。(Giữ gìn sức khỏe.) |
+| 垂らす (たらす) | 垂らす | Thùy | thả rơi, nhỏ giọt | 涙を垂らす。(Rơi nước mắt.) / ソースを垂らす。(Nhỏ nước sốt.) |
+| 足りる (たりる) | 足りる | Túc | đủ | お金が足りる。(Đủ tiền.) |
+| 垂れる (たれる) | 垂れる | Thùy | rớt xuống, chảy xuống | 雨が垂れる。(Mưa rớt xuống.) / 鼻水が垂れる。(Nước mũi chảy xuống.) |
+| 誓う (ちかう) | 誓う | Thệ | thề | 永遠の愛を誓う。(Thề yêu trọn đời.) |
+| 近づく (ちかづく) | 近づく | Cận | đến gần | 目標に近づく。(Đến gần mục tiêu.) |
+| 近寄る (ちかよる) | 近寄る | Cận | lại gần | 犬に近寄る。(Lại gần con chó.) |
+| 違う (ちがう) | 違う | Vi | khác | 意見が違う。(Ý kiến khác nhau.) |
+| 千切る (ちぎる) | 千切る | Thiên | xé | 紙を千切る。(Xé giấy.) |
+| 縮む (ちぢむ) | 縮む | Súc | co lại | セーターが縮む。(Áo len co lại.) |
+| 縮める (ちぢめる) | 縮める | Súc | rút ngắn, thu nhỏ | 時間を縮める。(Rút ngắn thời gian.) / 距離を縮める。(Thu hẹp khoảng cách.) |
+| 散る (ちる) | 散る | Tán | rơi rụng | 花が散る。(Hoa rơi rụng.) |
+| 散らかす (ちらかす) | 散らかす | Tán | làm bừa bộn | 部屋を散らかす。(Làm bừa bộn phòng.) |
+| 散らかる (ちらかる) | 散らかる | Tán | bừa bộn | 部屋が散らかる。(Phòng bừa bộn.) |
+| 散らす (ちらす) | 散らす | Tán | làm rơi vãi, phân tán | 紙を散らす。(Làm rơi vãi giấy.) / 注意を散らす。(Làm phân tán sự chú ý.) |
+| 付く (つく) | 付く | Phụ | đính, gắn | シールが付く。(Nhãn dán được dán.) |
+| 着く (つく) | 着く | Trước | đến | 駅に着く。(Đến ga.) |
+| 就く (つく) | 就く | Tựu | đảm nhận (chức vụ) | 職に就く。(Đảm nhận chức vụ.) |
+| 点く (つく) | 点く | Điểm | được bật | 電気が点く。(Đèn được bật.) |
+| 突く (つく) | 突く | Đột | đâm, chọc | 壁を突く。(Đâm vào tường.) / 指で突く。(Chọc bằng ngón tay.) |
+| 搗く (つく) | 搗く | Đảo | giã | 餅を搗く。(Giã bánh mochi.) |
+| 尽くす (つくす) | 尽くす | Tận | cố gắng hết sức, phục vụ | 全力を尽くす。(Cố gắng hết sức.) / 社会に尽くす。(Phục vụ xã hội.) |
+| 作る (つくる) | 作る | Tác | làm, tạo | 料理を作る。(Nấu ăn.) |
+| 造る (つくる) | 造る | Tạo | chế tạo | 機械を造る。(Chế tạo máy móc.) |
+| 創る (つくる) | 創る | Sáng | sáng tạo | 新しいものを創る。(Sáng tạo cái mới.) |
+| 浸かる (つかる) | 浸かる | Tẩm | ngâm | 湯に浸かる。(Ngâm mình trong nước nóng.) |
+| 掴む (つかむ) | 掴む | Quắc | nắm, tóm lấy | ロープを掴む。(Nắm dây.) / チャンスを掴む。(Nắm bắt cơ hội.) |
+| 疲れる (つかれる) | 疲れる | Bì | mệt mỏi | 体が疲れる。(Cơ thể mệt mỏi.) |
+| 付ける (つける) | 付ける | Phụ | đính, gắn | 名札を付ける。(Gắn thẻ tên.) |
+| 点ける (つける) | 点ける | Điểm | bật | 明かりを点ける。(Bật đèn.) |
+| 浸す (つける) | 浸す | Tẩm | ngâm | 水に浸す。(Ngâm trong nước.) |
+| 漬ける (つける) | 漬ける | T漬 | ngâm, muối | 野菜を漬ける。(Muối rau.) |
+| 伝える (つたえる) | 伝える | Truyền | truyền đạt | 情報を伝える。(Truyền đạt thông tin.) |
+| 伝う (つたう) | 伝う | Truyền | lan truyền, men theo | 壁を伝う。(Leo theo tường.) / 涙が頬を伝う。(Nước mắt lăn dài trên má.) |
+| 続く (つづく) | 続く | Tục | tiếp tục | 雨が続く。(Mưa tiếp tục.) |
+| 続ける (つづける) | 続ける | Tục | tiếp tục (làm gì đó) | 勉強を続ける。(Tiếp tục học.) |
+| 綴る (つづる) | 綴る | Xuyết | viết, đánh vần | 詩を綴る。(Viết thơ.) / 名前を綴る。(Đánh vần tên.) |
+| 突っ張る (つっぱる) | 突っ張る | Đột | chống, căng, khăng khăng | 壁を突っ張る。(Chống vào tường.) / 意見を突っ張る。(Khăng khăng ý kiến.) |
+| 勤める (つとめる) | 勤める | Cần | làm việc | 会社に勤める。(Làm việc ở công ty.) |
+| 努める (つとめる) | 努める | Nỗ | cố gắng, nỗ lực | 問題解決に努める。(Nỗ lực giải quyết vấn đề.) |
+| 務める (つとめる) | 務める | Vụ | đảm nhiệm vai trò | 議長を務める。(Đảm nhiệm vai trò chủ tịch.) |
+| 繋がる (つながる) | 繋がる | Hệ | kết nối, liên quan | 電話が繋がる。(Điện thoại kết nối được.) / 事件に繋がる。(Liên quan đến vụ án.) |
+| 繋ぐ (つなぐ) | 繋ぐ | Hệ | kết nối, nắm (tay) | 手を繋ぐ。(Nắm tay.) / インターネットに繋ぐ。(Kết nối internet.) |
+| 詰まる (つまる) | 詰まる | Cật | bị tắc, đầy | 排水口が詰まる。(Ống thoát nước bị tắc.) / 予定が詰まる。(Lịch trình kín mít.) |
+| 摘む (つむ) | 摘む | Trích | hái | 花を摘む。(Hái hoa.) |
+| 積む (つむ) | 積む | Tích | chất đống, tích lũy | 荷物を積む。(Chất đống hành lý.) / 経験を積む。(Tích lũy kinh nghiệm.) |
+| 詰める (つめる) | 詰める | Cật | nhét chặt, rút ngắn | 荷物を詰める。(Nhét chặt hành lý.) / 距離を詰める。(Rút ngắn khoảng cách.) |
+| 釣る (つる) | 釣る | Điếu | câu | 魚を釣る。(Câu cá.) |
+| 吊るす (つるす) | 吊るす | Điếu | treo | 看板を吊るす。(Treo biển hiệu.) |
+| 連れる (つれる) | 連れる | Liên | dắt đi | 犬を連れる。(Dắt chó đi.) |
+| 出会う (であう) | 出会う | Xuất hội | gặp gỡ (tình cờ) | 偶然友達に出会う。(Tình cờ gặp bạn.) |
+| 出来る (できる) | 出来る | Xuất lai | có thể, được hoàn thành | 英語が出来る。(Có thể nói tiếng Anh.) / 宿題が出来た。(Bài tập đã hoàn thành.) |
+| 手伝う (てつだう) | 手伝う | Thủ | giúp đỡ | 母を手伝う。(Giúp mẹ.) |
+| 出る (でる) | 出る | Xuất | ra ngoài, xuất hiện | 家を出る。(Ra khỏi nhà.) / 芽が出る。(Mầm nhú ra.) |
+| 照らす (てらす) | 照らす | Chiếu | chiếu sáng | 懐中電灯で照らす。(Chiếu sáng bằng đèn pin.) |
+| 照る (てる) | 照る | Chiếu | chiếu sáng (mặt trời) | 太陽が照る。(Mặt trời chiếu sáng.) |
+| 照れる (てれる) | 照れる | Chiếu | ngượng | 褒められて照れる。(Ngượng vì được khen.) |
+| 問う (とう) | 問う | Vấn | hỏi | 意見を問う。(Hỏi ý kiến.) |
+| 通る (とおる) | 通る | Thông | đi qua | 道を通る。(Đi qua đường.) |
+| 通す (とおす) | 通す | Thông | cho qua, thông qua | 光を通す。(Cho ánh sáng đi qua.) / 提案を通す。(Thông qua đề án.) |
+| 閉じる (とじる) | 閉じる | Bế | đóng | 本を閉じる。(Đóng sách.) |
+| 綴じる (とじる) | 綴じる | Xuyết | đóng (sách, tài liệu) | 書類を綴じる。(Đóng tài liệu.) |
+| 届く (とどく) | 届く | Giới | đến, đạt tới | 手紙が届く。(Thư đến.) / 声が届く。(Tiếng nói vọng tới.) |
+| 届ける (とどける) | 届ける | Giới | giao, gửi | 荷物を届ける。(Giao hàng.) |
+| 整う (ととのう) | 整う | Chỉnh | được sắp xếp, chuẩn bị xong | 部屋が整う。(Phòng được sắp xếp.) / 準備が整う。(Chuẩn bị xong.) |
+| 整える (ととのえる) | 整える | Chỉnh | sắp xếp, chuẩn bị | 部屋を整える。(Sắp xếp phòng.) / 服装を整える。(Chỉnh trang phục.) |
+| 留まる (とどまる) | 留まる | Lưu | dừng lại, ở lại | その場に留まる。(Dừng lại tại chỗ.) / 記憶に留まる。(Lưu lại trong ký ức.) |
+| 留める (とどめる) | 留める | Lưu | giữ lại, dừng lại | 記憶に留める。(Ghi nhớ.) / 足を留める。(Dừng chân.) |
+| 泊まる (とまる) | 泊まる | Bạc | trọ lại | ホテルに泊まる。(Trọ lại khách sạn.) |
+| 止まる (とまる) | 止まる | Chỉ | dừng lại | 車が止まる。(Xe dừng lại.) |
+| 富む (とむ) | 富む | Phú | giàu có | 資源に富む。(Giàu tài nguyên.) |
+| 泊める (とめる) | 泊める | Bạc | cho ở lại | 友達を泊める。(Cho bạn ở lại.) |
+| 止める (とめる) | 止める | Chỉ | dừng lại | 車を止める。(Dừng xe.) |
+| 取る (とる) | 取る | Thủ | lấy | ペンを取る。(Lấy bút.) |
+| 撮る (とる) | 撮る | Toát | chụp | 写真を撮る。(Chụp ảnh.) |
+| 捕る (とる) | 捕る | Bổ | bắt | 魚を捕る。(Bắt cá.) |
+| 採る (とる) | 採る | Thái | lấy, thu thập, tuyển dụng | 野菜を採る。(Thu hoạch rau.) / 血を採る。(Lấy máu.) / 新人を採る。(Tuyển người mới.) |
+| 執る (とる) | 執る | Chấp | nắm giữ, thực hiện | 筆を執る。(Cầm bút.) / 事務を執る。(Xử lý công việc văn phòng.) |
+| 解く (とく) | 解く | Giải | giải | 問題を解く。(Giải bài.) |
+| 溶く (とく) | 溶く | Dung | hòa tan | バターを溶く。(Làm tan bơ.) |
+| 説く (とく) | 説く | Thuyết | giảng giải | 道理を説く。(Giảng giải đạo lý.) |
+| 解ける (とける) | 解ける | Giải | được giải, tuột ra | 謎が解ける。(Bí ẩn được giải.) / 紐が解ける。(Dây bị tuột.) |
+| 溶ける (とける) | 溶ける | Dung | tan | 氷が溶ける。(Đá tan.) |
+| 退ける (どける) | 退ける | Thoái | dọn dẹp, loại bỏ | 箱を退ける。(Dọn cái hộp đi.) |
+| 飛ぶ (とぶ) | 飛ぶ | Phi | bay | 鳥が飛ぶ。(Chim bay.) |
+| 直す (なおす) | 直す | Trực | sửa lại | 時計を直す。(Sửa đồng hồ.) |
+| 治す (なおす) | 治す | Trị | chữa | 病気を治す。(Chữa bệnh.) |
+| 直る (なおる) | 直る | Trực | được sửa | 故障が直る。(Hỏng hóc được sửa.) |
+| 治る (なおる) | 治る | Trị | khỏi bệnh | 風邪が治る。(Cảm lạnh khỏi.) |
+| 流す (ながす) | 流す | Lưu | cho chảy, lan truyền | 水を流す。(Cho nước chảy.) / 噂を流す。(Lan truyền tin đồn.) |
+| 眺める (ながめる) | 眺める | Thiếu | ngắm nhìn | 景色を眺める。(Ngắm nhìn phong cảnh.) |
+| 流れる (ながれる) | 流れる | Lưu | chảy, trôi | 川が流れる。(Sông chảy.) / 時が流れる。(Thời gian trôi.) |
+| 慰める (なぐさめる) | 慰める | Úy | an ủi | 友人を慰める。(An ủi bạn.) |
+| 殴る (なぐる) | 殴る | Ẩu | đánh | 相手を殴る。(Đánh đối phương.) |
+| 嘆く (なげく) | 嘆く | Thán | than thở | 運命を嘆く。(Than thở về số phận.) |
+| 投げる (なげる) | 投げる | Đầu | ném | ボールを投げる。(Ném bóng.) |
+| 無くなる (なくなる) | 無くなる | Vô | mất, hết | 財布が無くなる。(Ví bị mất.) / 在庫が無くなる。(Hết hàng tồn kho.) |
+| 亡くなる (なくなる) | 亡くなる | Vong | qua đời | 祖父が亡くなる。(Ông nội qua đời.) |
+| 無くす (なくす) | 無くす | Vô | làm mất | 鍵を無くす。(Làm mất chìa khóa.) |
+| 泣く (なく) | 泣く | Khấp | khóc | 子供が泣く。(Trẻ em khóc.) |
+| 鳴く (なく) | 鳴く | Minh | kêu (động vật) | 鳥が鳴く。(Chim hót.) |
+| 凪ぐ (なぐ) | 凪ぐ | Trĩ | lặng (gió, biển) | 海が凪ぐ。(Biển lặng.) |
+| 成す (なす) | 成す | Thành | làm, thực hiện | 仕事を成す。(Hoàn thành công việc.) |
+| 為す (なす) | 為す | Vi | làm, hành động | 善を為す。(Làm việc thiện.) |
+| 撫でる (なでる) | 撫でる | Phủ | vuốt ve | 猫を撫でる。(Vuốt ve mèo.) |
+| 懐く (なつく) | 懐く | Hoài | quấn quýt, theo | 犬が懐く。(Chó quấn quýt.) |
+| 並ぶ (ならぶ) | 並ぶ | Tịnh | xếp hàng | 列に並ぶ。(Xếp hàng.) |
+| 並べる (ならべる) | 並べる | Tịnh | sắp xếp | 本を並べる。(Sắp xếp sách.) |
+| 習う (ならう) | 習う | Tập | học | 英語を習う。(Học tiếng Anh.) |
+| 成る (なる) | 成る | Thành | trở thành | 医者になる。(Trở thành bác sĩ.) |
+| 鳴る (なる) | 鳴る | Minh | kêu, reo | 電話が鳴る。(Điện thoại kêu.) |
+| 慣らす (ならす) | 慣らす | Quán | làm quen | 体を慣らす。(Làm quen cơ thể.) |
+| 鳴らす (ならす) | 鳴らす | Minh | làm kêu, bấm (còi) | 鐘を鳴らす。(Làm chuông kêu.) / クラクションを鳴らす。(Bấm còi xe.) |
+| 慣れる (なれる) | 慣れる | Quán | quen | 環境に慣れる。(Quen với môi trường.) |
+| 煮る (にる) | 煮る | Chử | nấu, ninh | 野菜を煮る。(Nấu rau.) |
+| 似る (にる) | 似る | Tự | giống | 父親に似る。(Giống cha.) |
+| 握る (にぎる) | 握る | Ác | nắm | 手を握る。(Nắm tay.) / おにぎりを握る。(Nắm cơm.) |
+| 逃がす (にがす) | 逃がす | Đào | thả, để thoát | 犯人を逃がす。(Để tội phạm thoát.) |
+| 逃げる (にげる) | 逃げる | Đào | chạy trốn | 敵から逃げる。(Chạy trốn khỏi kẻ thù.) |
+| 濁す (にごす) | 濁す | Trọc | làm đục, nói mập mờ | 水を濁す。(Làm đục nước.) / 言葉を濁す。(Nói mập mờ.) |
+| 濁る (にごる) | 濁る | Trọc | đục | 水が濁る。(Nước đục.) |
+| 憎む (にくむ) | 憎む | Tăng | ghét, căm thù | 敵を憎む。(Ghét kẻ thù.) |
+| 睨む (にらむ) | 睨む | Nghễ | nhìn chằm chằm, lườm | 敵を睨む。(Nhìn chằm chằm kẻ thù.) |
+| 縫う (ぬう) | 縫う | Phùng | may | 服を縫う。(May quần áo.) |
+| 抜く (ぬく) | 抜く | Bạt | rút ra, nhổ | 刀を抜く。(Rút kiếm.) / 歯を抜く。(Nhổ răng.) |
+| 脱ぐ (ぬぐ) | 脱ぐ | Thoát | cởi | 靴を脱ぐ。(Cởi giày.) |
+| 拭う (ぬぐう) | 拭う | Thức | lau | 汗を拭う。(Lau mồ hôi.) |
+| 抜ける (ぬける) | 抜ける | Bạt | được rút ra, rơi ra, thoát khỏi | 糸が抜ける。(Sợi chỉ được rút ra.) / トンネルを抜ける。(Thoát khỏi đường hầm.) |
+| 盗む (ぬすむ) | 盗む | Đạo | ăn trộm | お金を盗む。(Ăn trộm tiền.) |
+| 濡らす (ぬらす) | 濡らす | Nhu | làm ướt | 髪を濡らす。(Làm ướt tóc.) |
+| 濡れる (ぬれる) | 濡れる | Nhu | ướt | 服が濡れる。(Quần áo ướt.) |
+| 願う (ねがう) | 願う | Nguyện | ước, mong | 幸せを願う。(Ước hạnh phúc.) |
+| 寝る (ねる) | 寝る | Tẩm | ngủ | 早く寝る。(Ngủ sớm.) |
+| 練る (ねる) | 練る | Luyện | trau dồi, nhào trộn | 計画を練る。(Lập kế hoạch.) / パン生地を練る。(Nhào bột bánh mì.) |
+| 狙う (ねらう) | 狙う | Thư | nhắm, mục tiêu | 獲物を狙う。(Nhắm con mồi.) / 優勝を狙う。(Nhắm tới chức vô địch.) |
+| 粘る (ねばる) | 粘る | Niêm | dính, kiên trì | 手が粘る。(Tay dính.) / 最後まで粘る。(Kiên trì đến cùng.) |
+| 捻る (ねじる) | 捻る | Niệp | xoắn, vặn | 蛇口を捻る。(Vặn vòi nước.) / 体を捻る。(Xoắn người.) |
+| 残す (のこす) | 残す | Tàn | để lại | メッセージを残す。(Để lại tin nhắn.) / 食べ物を残す。(Để lại thức ăn.) |
+| 残る (のこる) | 残る | Tàn | còn lại | 時間が残る。(Còn thời gian.) / 記憶に残る。(Còn lại trong ký ức.) |
+| 乗せる (のせる) | 乗せる | Thừa | cho lên, chở | バスに乗せる。(Cho lên xe buýt.) / 子供を肩に乗せる。(Cho con ngồi lên vai.) |
+| 載せる (のせる) | 載せる | Tải | đặt lên, đăng | 棚に載せる。(Đặt lên kệ.) / 記事を雑誌に載せる。(Đăng bài viết lên tạp chí.) |
+| 除く (のぞく) | 除く | Trừ | loại trừ, nhìn trộm | 税金を除く。(Không bao gồm thuế.) / 鍵穴から覗く。(Nhìn trộm qua lỗ khóa.) |
+| 覗く (のぞく) | 覗く | Khuy | nhìn trộm, liếc nhìn | 窓から覗く。(Nhìn trộm qua cửa sổ.) |
+| 望む (のぞむ) | 望む | Vọng | mong mỏi, ước | 幸せを望む。(Mong mỏi hạnh phúc.) / 成功を望む。(Ước thành công.) |
+| 臨む (のぞむ) | 臨む | Lâm | đối diện, tham dự | 試験に臨む。(Đối diện với kỳ thi.) / 会議に臨む。(Tham dự hội nghị.) |
+| 昇る (のぼる) | 昇る | Thăng | lên, mọc | 太陽が昇る。(Mặt trời mọc.) / 地位が昇る。(Địa vị tăng lên.) |
+| 上る (のぼる) | 上る | Thượng | lên, đi lên | 山に上る。(Leo núi.) / 階段を上る。(Lên cầu thang.) |
+| 登る (のぼる) | 登る | Đăng | trèo, leo | 木に登る。(Trèo cây.) |
+| 飲む (のむ) | 飲む | Ẩm | uống | 水を飲む。(Uống nước.) |
+| 乗る (のる) | 乗る | Thừa | lên, đi (xe) | 電車に乗る。(Đi tàu điện.) |
+| 載る (のる) | 載る | Tải | được chở, được đăng | 記事が載る。(Bài viết được đăng.) / 荷物がトラックに載る。(Hàng hóa được chở trên xe tải.) |
+| 伸びる (のびる) | 伸びる | Thân | dài ra, phát triển | 髪が伸びる。(Tóc dài ra.) / 身長が伸びる。(Chiều cao phát triển.) |
+| 延びる (のびる) | 延びる | Diên | bị trì hoãn, kéo dài | 会議が延びる。(Cuộc họp bị kéo dài.) / 寿命が延びる。(Tuổi thọ kéo dài.) |
+| 伸ばす (のばす) | 伸ばす | Thân | làm dài, duỗi | 髪を伸ばす。(Để tóc dài.) / 手を伸ばす。(Duỗi tay.) |
+| 延ばす (のばす) | 延ばす | Diên | trì hoãn, kéo dài | 出発を延ばす。(Trì hoãn xuất phát.) / 期限を延ばす。(Kéo dài thời hạn.) |
+| 述べる (のべる) | 述べる | Thuật | phát biểu, trình bày | 意見を述べる。(Phát biểu ý kiến.) |
+| 剥がす (はがす) | 剥がす | Bác | bóc ra | シールを剥がす。(Bóc nhãn dán.) |
+| 剥がれる (はがれる) | 剥がれる | Bác | bị bóc ra | 壁紙が剥がれる。(Giấy dán tường bị bong.) |
